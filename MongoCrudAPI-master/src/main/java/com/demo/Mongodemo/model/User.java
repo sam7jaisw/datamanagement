@@ -5,6 +5,7 @@ import org.springframework.data.mongodb.core.mapping.Document;
 
 @Document
 public class User {
+	// User Model Object
 
 	@Id
 	private String id;
