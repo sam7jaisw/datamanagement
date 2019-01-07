@@ -5,7 +5,7 @@ import org.springframework.data.mongodb.core.mapping.Document;
 
 @Document
 public class User {
-	// User Model Object
+	// User Model Object by Vignan
 
 	@Id
 	private String id;
